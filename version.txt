@@ -4,10 +4,10 @@ Copyright(c) 2007-08 Toby de Havilland, Some rights reserved.
 --------------------------------------------------------------------------
 Release Date: 03/16/08
     Platform: Python 2.5  
-     Version: 0 
-    Revision: 1
+     Version: 1 
+    Revision: 0
       Author: Toby de Havilland <toby.de.havilland@puremvc.org>
      License: Creative Commons Attribution 3.0 United States License
 --------------------------------------------------------------------------
-0.1 - Initial project, demonstrating the use of PureMVC Python with
+1.0 - Initial project, demonstrating the use of PureMVC Python with
       wxPython.
