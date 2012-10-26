@@ -14,7 +14,7 @@ Production - [Version 1.0](https://github.com/PureMVC/puremvc-python-demo-wxpyth
 * [Python](http://en.wikipedia.org/wiki/Python_(programming_language\))
 
 ## License
-* PureMVC Python Demo - wxPython Employee Admin (Ported) - Copyright © 2008 Toby de Havilland
+* PureMVC Python Demo - Employee Admin (Ported) - Copyright © 2008 Toby de Havilland
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.
 
